@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+; Created by: DiamondDrake
+; Date:       9/3/2021
+; Based on the work of: Shawn Brink
+
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenWTHereAsAdmin]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWTHereAsAdmin]
+
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenWTHereAsAdmin]
+
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenWTHereAsAdmin]
+
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenWTHereAsAdmin\command]
+
